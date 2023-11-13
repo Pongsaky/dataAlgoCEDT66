@@ -1,3 +1,7 @@
 .vscode/*
 .cph/*
 *.exe
+*.cbp
+*.layout
+*.prob
+*.pdf
